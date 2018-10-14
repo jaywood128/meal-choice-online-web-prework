@@ -1,6 +1,5 @@
 def meal_choice(anything, choice = "meat")
-  "#{anything}"
-  "#{meat}"
+  choice
 
 
 end# Define a method meal_choice that returns the meal_choice that was
